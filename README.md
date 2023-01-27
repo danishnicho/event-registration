@@ -223,9 +223,9 @@ color: #FFFFFF;
 ```
 
 ## OUTPUT:
-![out](./web9.png)
-![out](./Web9A.png)
-![out](./Web9B.png)
+![model](./web9.png)
+![model](./Web9A.png)
+![model](./Web9B.png)
 
 ## Result:
 
