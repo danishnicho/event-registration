@@ -223,7 +223,7 @@ color: #FFFFFF;
 ```
 
 ## OUTPUT:
-![out](./Web9a.png)
+![out](./web9.png)
 ![out](./Web9b.png)
 ![out](./Web9c.png)
 
